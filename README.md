@@ -6,9 +6,16 @@ Basically, this serves as a free resource for servers that need a PersonalMenu s
 With this resource, you will be able to do the following:
 
 Open a Personal Menu to do the following things :
+
 OpenMenu - K
+
 HandsUp - X
+
 Pointing - B
+
 Crouch - LEFTCTRL
+
 StopTasks - X
+
 TPmarker - LEFTALT
+
